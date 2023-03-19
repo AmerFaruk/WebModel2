@@ -1,0 +1,273 @@
+/*about-me*/
+.header-background {
+    height: 35%;
+    width: 35%;
+}
+.name-header {
+    text-align: center;
+    color: #363333;
+    font-size: 4.7rem;
+    margin: 10px;
+    line-height: 14px;
+}
+.name-header-two {
+    text-align: center;
+    color: #363333;
+    font-size: 2rem;
+    font-weight: normal;
+}
+.about-me-body {
+
+    background-color: #D8D8D8;
+    margin: 0px;
+}
+.top-container{
+    font-family: 'Raleway', sans-serif;
+    height: 650px;
+}
+.block-head {
+    text-align: center;
+    position: absolute;
+    top: 150px;
+    left: 25%;
+    right: 25%;
+}
+
+.middle-container{
+    font-family: 'Raleway', sans-serif;
+    margin-top: 100px;
+    
+}
+.interests{
+    text-align: center;
+    
+}
+.interest{
+    text-align: left;
+    line-height: 2;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    color: #363333;
+}
+.interest-header-3 {
+    color: #363333;
+    font-size: 1.6rem;
+}
+.ab-p {
+    font-family: 'Roboto', sans-serif;
+}
+.interest-background-red {
+    float: left;
+    width: 40%;
+    margin-right: 30px;
+}
+.interest-background-gold {
+    float: right;
+    width: 40%;
+    margin-left: 30px;
+}
+
+.interest-header {
+    color: #363333;
+    font-size: 4.0rem;
+}
+.bottom-container{
+    font-family: 'Raleway', sans-serif;
+    margin-top: 100px;
+}
+.get-in-touch {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    line-height: 2;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    color: #363333;
+}
+.contact-btn{
+    background-image: url(sources/image/permanent/contact-button.png);
+    color: #D8D8D8 ;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-style: none;
+    background-color: #D8D8D8 ;
+    font-size: 18px;
+    width: 250px;
+    height: 250px;
+}
+
+.contact-btn-a-cv {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Arial;
+  color: #D8D8D8;
+  font-size: 20px;
+  background: #EC625F;
+  padding: 10px 20px 10px 20px;
+  border: solid #EC625F 0px;
+  text-decoration: none;
+}
+.contact-btn-a-cv:hover {
+    background: #363333;
+    text-decoration: none;
+}
+.contact-btn-a-cv:visited {
+    color: #D8D8D8;
+}
+.contact-btn-a {
+    color: #D8D8D8;
+    text-decoration-line: none;
+}
+.contact-btn-a:visited {
+    color: #D8D8D8;
+}
+.finish-container {
+    height: 150px;
+    background-color: #EC625F;
+    text-align: center;
+}
+.sekiro {
+    float: right;
+    width: 40%;
+    margin-left: 50px;
+}
+.copyright {
+    color: #D8D8D8;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.75rem;
+}
+hr {
+    border: dotted #EC625F 6px;
+    border-bottom: none;
+    width: 4%;
+}
+
+
+
+
+/**/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* CV */
+.cv-body {
+    margin: 0px;
+}
+.left-part {
+    text-align: center;
+    
+    height: 1800px;
+    width: 30%;
+    background-color: #2B2B2B;
+    display: inline-block;
+    position: absolute;
+}
+
+.shortcut {
+    text-align: center;
+    margin: 15px;
+    
+}
+.profile {
+    display: inline-block;
+    width: 75%;
+    height: 75%;
+}
+.iconContainer {
+    display: inline-block;
+    margin: 25px;
+    text-align: center;
+}
+.communication {
+    display: inline-flex;
+    width: 25px;
+    height: 25px;
+}
+.right-part {
+    text-align: center;
+
+    height: 1800px;
+    width: 70%;
+    background-color: #423F3E;
+    position: absolute;
+    left: 30%;
+}
+.description {
+    text-align: center;
+
+    position: absolute;
+    left: 25%;
+    width: 50%;
+}
+.hello {
+    text-align: left;
+
+}
+.thisWebsite {
+    text-align: left;
+
+}
+.skills {
+    text-align: left;
+
+}
+.last {
+    text-align: left;
+}
+.git {
+    text-align: left;
+}
+.name {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+
+.header-cv {
+    font-family: 'Raleway', sans-serif;
+    color: #EC625F;
+    font-size: 54px;
+}
+.p-cv {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #F6E9E9;
+}
+
+
+/*****/
